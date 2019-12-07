@@ -1,0 +1,8 @@
+/*
+-- Query: SELECT * FROM oficinabook.albums
+LIMIT 0, 1000
+
+-- Date: 2019-12-07 11:50
+*/
+INSERT INTO `` (`user_id`,`id`,`title`,`created_at`,`updated_at`) VALUES (1,1,'quidem molestiae enim','2019-12-07 00:00:00','2019-12-07 00:00:00');
+INSERT INTO `` (`user_id`,`id`,`title`,`created_at`,`updated_at`) VALUES (1,2,'sunt qui excepturi placeat culpa','2019-12-07 00:00:00','2019-12-07 00:00:00');

@@ -1,0 +1,8 @@
+/*
+-- Query: SELECT * FROM oficinabook.users
+LIMIT 0, 1000
+
+-- Date: 2019-12-07 11:51
+*/
+INSERT INTO `` (`id`,`name`,`email`,`password_hash`,`created_at`,`updated_at`) VALUES (1,'Luís Campos','luis@gmail.com','$2a$08$alo70nbDngzcs9EQC7ChqeI4Dva6uM.Bd0JL0rMkupr6k1oeo8R9.','2019-12-07 12:34:35','2019-12-07 12:34:35');
+INSERT INTO `` (`id`,`name`,`email`,`password_hash`,`created_at`,`updated_at`) VALUES (2,'Jose Augusto','jaugusto@gmail.com','$2a$08$TDS3Z6e8ciVOLlbtvKmBCO5X8GBmY5qtwpdlVgtpjhS3zPYcbj9qu','2019-12-07 12:35:34','2019-12-07 12:35:34');
